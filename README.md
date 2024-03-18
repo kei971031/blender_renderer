@@ -1,1 +1,1 @@
-![gif](/images/your-gif-name.gif)
+![gif](/images/blender_addon2.gif)
